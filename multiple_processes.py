@@ -31,7 +31,7 @@ import sys
 
 # define global variables
 
-task_duration = 3 
+task_duration = 3
 
 dbname = "shared.db"
 
@@ -157,4 +157,3 @@ if __name__ == "__main__":
     # if the task duration is 0, then show the success message
     if task_duration == 0:
         print(success_message)
-   
