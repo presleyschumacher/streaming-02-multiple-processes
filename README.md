@@ -25,13 +25,25 @@ Read the output. Read the code.
 Try to figure out what's going on. 
 
 1. What libraries did we import?
+    # We imported SQLite 3, time, multiprocessing, os, datetime, platform, and sys
 1. Where do we set the task_duration?
+    # The task duration is right after we import the libraries. This is where we define our variables.
 1. How many functions are defined? 
-1. What are the function names? 
+    # 7
+1. What are the function names?
+    # 1: Create table. 2: Drop Table. 3: Define the process. 4: Process one. 5: Process two. 6: Process three. 7: Recreate the database.    
 1. In general, what does each function do? 
+    # 1: Getting the environment ready to create our pets table. Creating a connection, creating a SQL statement, defining the excution 
+    # 2: Drop table gets rid of the table, but in this instance we are using it to ensure we don't have duplicate pets
+    # 3: Defining the process for inserting the pets to make entering the data easier.
+    # 4 - 6: Enter the actual pet data.
+    # 7: Creating a clean version of our pets table
 1. Where does the execution begin?
+    # At the bottom of the file
 1. How many processes do we start?
+    # There are 3 processes
 1. How many records does each process insert?
+    # There are 2 records for each process (6 total records)
 
 In this first run, we start 3 processes, 
 each inserting 2 records into a shared database 

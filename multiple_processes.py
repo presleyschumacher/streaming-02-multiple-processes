@@ -31,7 +31,7 @@ import sys
 
 # define global variables
 
-task_duration = 3
+task_duration = 0
 
 dbname = "shared.db"
 
