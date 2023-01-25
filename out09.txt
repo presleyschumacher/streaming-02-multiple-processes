@@ -1,0 +1,61 @@
+(base) presley.schumacher@APL61404 streaming-02-multiple-processes % /usr/bin/python3 /Users/pr
+esley.schumacher/Documents/streaming-02-multiple-processes/process_streaming_presley.py
+Sent: b"[10059, Analytics, region_34, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[10292, Sales & Marketing, region_23, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[10361, HR, region_2, Master's & above, m, other]" on port 9999.
+Sent: b"[10376, Analytics, region_31, Bachelor's, m, other]" on port 9999.
+Sent: b"[10380, Legal, region_22, Bachelor's, m, other]" on port 9999.
+Sent: b"[10388, Sales & Marketing, region_10, Bachelor's, m, other]" on port 9999.
+Sent: b"[10399, Technology, region_31, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[10424, Sales & Marketing, region_31, Bachelor's, m, other]" on port 9999.
+Sent: b"[10473, Finance, region_2, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[10508, Operations, region_4, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[10552, Operations, region_2, Bachelor's, f, other]" on port 9999.
+Sent: b"[10563, Legal, region_11, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[10663, Legal, region_6, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[10732, Analytics, region_2, Bachelor's, m, other]" on port 9999.
+Sent: b"[10742, Sales & Marketing, region_19, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[10761, HR, region_2, Master's & above, f, sourcing]" on port 9999.
+Sent: b"[10812, Operations, region_15, Master's & above, m, other]" on port 9999.
+Sent: b"[10860, R&D, region_7, Bachelor's, m, other]" on port 9999.
+Sent: b'[1089, HR, region_26, Below Secondary, m, other]' on port 9999.
+Sent: b"[10986, Sales & Marketing, region_7, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[10992, HR, region_22, Bachelor's, f, referred]" on port 9999.
+Sent: b"[11001, Sales & Marketing, region_12, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[11061, Technology, region_33, Bachelor's, m, other]" on port 9999.
+Sent: b"[1110, Sales & Marketing, region_22, Bachelor's, m, other]" on port 9999.
+Sent: b"[11139, Procurement, region_2, Bachelor's, f, other]" on port 9999.
+Sent: b"[11336, Sales & Marketing, region_26, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[11378, Sales & Marketing, region_27, Master's & above, m, other]" on port 9999.
+Sent: b"[11414, Operations, region_27, Master's & above, m, other]" on port 9999.
+Sent: b"[11436, Analytics, region_21, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[11774, Procurement, region_20, Bachelor's, f, other]" on port 9999.
+Sent: b"[11784, Procurement, region_16, Bachelor's, m, other]" on port 9999.
+Sent: b"[11824, Technology, region_2, Master's & above, f, sourcing]" on port 9999.
+Sent: b"[1183, Analytics, region_27, Bachelor's, m, other]" on port 9999.
+Sent: b"[12033, Operations, region_22, Master's & above, m, other]" on port 9999.
+Sent: b"[1210, Sales & Marketing, region_16, Master's & above, f, other]" on port 9999.
+Sent: b"[12320, Sales & Marketing, region_25, Master's & above, m, other]" on port 9999.
+Sent: b"[12411, Procurement, region_11, Bachelor's, f, other]" on port 9999.
+Sent: b"[12492, Operations, region_32, Bachelor's, m, other]" on port 9999.
+Sent: b"[1250, Procurement, region_17, Master's & above, f, sourcing]" on port 9999.
+Sent: b"[12571, Operations, region_16, Master's & above, f, other]" on port 9999.
+Sent: b"[12594, Procurement, region_4, Master's & above, m, other]" on port 9999.
+Sent: b'[12723, Sales & Marketing, region_27, , m, sourcing]' on port 9999.
+Sent: b"[12737, Sales & Marketing, region_7, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[1276, Sales & Marketing, region_7, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[12803, Operations, region_22, Bachelor's, f, other]" on port 9999.
+Sent: b"[12841, Technology, region_15, Bachelor's, m, other]" on port 9999.
+Sent: b"[12927, Sales & Marketing, region_32, Bachelor's, f, sourcing]" on port 9999.
+Sent: b"[13164, Technology, region_5, Master's & above, m, sourcing]" on port 9999.
+Sent: b"[13223, R&D, region_7, Bachelor's, f, other]" on port 9999.
+Sent: b"[13259, Sales & Marketing, region_34, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[1327, Sales & Marketing, region_26, Bachelor's, m, other]" on port 9999.
+Sent: b"[13367, Sales & Marketing, region_14, Bachelor's, m, other]" on port 9999.
+Sent: b"[13471, R&D, region_4, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[1348, Analytics, region_22, Master's & above, m, sourcing]" on port 9999.
+Sent: b"[13549, Sales & Marketing, region_24, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[13593, Analytics, region_26, Bachelor's, m, sourcing]" on port 9999.
+Sent: b"[13640, Operations, region_15, Master's & above, m, sourcing]" on port 9999.
+Sent: b"[1367, Sales & Marketing, region_13, Master's & above, m, other]" on port 9999.
+Sent: b"[14101, Procurement, region_22, Bachelor's, m, sourcing]" on port 9999.
